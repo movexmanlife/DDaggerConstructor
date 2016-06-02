@@ -7,12 +7,10 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.robot.ddagger.bean.ConstructorView;
-import com.robot.ddagger.bean.NumberView;
 import com.robot.ddagger.bean.Student;
-import com.robot.ddagger.constructcomponent.maincomponent.ConstructorModule;
-import com.robot.ddagger.constructcomponent.maincomponent.DaggerConstructorComponent;
+import com.robot.ddagger.constructorcomponent.ConstructorModule;
+import com.robot.ddagger.constructorcomponent.DaggerConstructorComponent;
 import com.robot.ddagger.maincomponent.DaggerMainComponent;
-import com.robot.ddagger.maincomponent.MainModule;
 
 import javax.inject.Inject;
 

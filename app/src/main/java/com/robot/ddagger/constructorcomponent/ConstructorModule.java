@@ -1,4 +1,4 @@
-package com.robot.ddagger.constructcomponent.maincomponent;
+package com.robot.ddagger.constructorcomponent;
 
 import android.app.Activity;
 import android.content.Context;

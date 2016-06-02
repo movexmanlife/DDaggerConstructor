@@ -1,7 +1,6 @@
-package com.robot.ddagger.constructcomponent.maincomponent;
+package com.robot.ddagger.constructorcomponent;
 
 
-import com.robot.ddagger.MainActivity;
 import com.robot.ddagger.MainActivity2;
 import com.robot.ddagger.component.AppComponent;
 import com.robot.ddagger.component.PerActivity;
